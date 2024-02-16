@@ -12,5 +12,7 @@ public class TestController {
     public void testMethod1(@PathVariable("details") String details)
     {
         System.out.println("Test");
+        System.out.println("Test");
+
     }
 }
