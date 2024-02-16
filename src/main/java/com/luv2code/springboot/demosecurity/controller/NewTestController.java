@@ -6,4 +6,7 @@ public class NewTestController {
     {
         System.out.println("Hello...");
     }
+
+  public NewTestController()
+  {}
 }
